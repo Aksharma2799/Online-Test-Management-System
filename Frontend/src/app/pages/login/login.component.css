@@ -1,0 +1,8 @@
+.full-width {
+  width: 100%;
+}
+
+.images{
+  border: 2px solid red;
+  border-radius: 50%;
+}

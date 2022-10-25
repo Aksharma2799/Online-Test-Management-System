@@ -1,0 +1,33 @@
+
+h1{
+    color: brown;
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+}
+.para{
+    color: whitesmoke;
+    position: absolute;
+    top: 25%;
+    left: 75%;
+    transform: translate(-50% -50%);
+}
+.para .center{
+    font-size: 40px;
+    font-weight: bold;
+    /* margin-left: 10px; */
+    color: rgb(1, 18, 9);
+}
+ 
+p{
+    font-size: 30px;
+    line-height: 1.2;
+ 
+}
+img{
+    width: 100%;
+    height: 500px;
+}
+span{
+    color:rgb(0, 139, 65);
+}

@@ -1,0 +1,32 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: brown;
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+}
+.para{
+    color: white;
+    position: absolute;
+    top: 25%;
+    left: 75%;
+    transform: translate(-50% -50%);
+}
+.para .center{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 20px;
+    color: tomato;
+}
+
+p{
+    font-size: 30px;
+    line-height: 1.2;
+
+}
+img{
+    width: 100%;
+    height: 400px;
+}
